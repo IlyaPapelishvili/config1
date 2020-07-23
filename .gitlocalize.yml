@@ -2,5 +2,5 @@ synchronize:
    paths:
    -source: .
    include:
-   - "FilePicture.md"
+   - " localizeble1.strings "
    
