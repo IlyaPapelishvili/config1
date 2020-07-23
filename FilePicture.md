@@ -1,7 +1,7 @@
----
+
 Text: one
 Word: two
----
+
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
