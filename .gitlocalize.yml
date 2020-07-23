@@ -1,4 +1,4 @@
 settings:
  popup_for_contributors:
- enabled: "true"
- message_text: hello man!
+  enabled: -"true"
+  message_text: hello man!
